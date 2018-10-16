@@ -4,7 +4,7 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class PopulationCounter : MonoBehaviour {
+public class TimerCounter : MonoBehaviour {
 
     [SerializeField] GameObject timer;
     public InputField userInput;
