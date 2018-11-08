@@ -9,11 +9,12 @@ Re- usable scripts
 
 - Set automated path movement using transforms, to predefine the path.
 - NOTE:  waypoint circut  & improved way point rely on each other // 
+*  [Better Way Point Follower](BetterWaypointFollower.cs)
+* [Way Point](WaypointCircuit.cs)
   Disclaimer: Improved Way Point created by Zaneris
   
 # ScreenFader
   
   - sceen fader 
   - using UI panel, changes panel 
-  
   *  [Fade In Panel](FadeIn.cs)
