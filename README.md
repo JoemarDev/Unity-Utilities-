@@ -11,7 +11,7 @@ Re- usable scripts
 - NOTE:  waypoint circut  & improved way point rely on each other // 
   Disclaimer: Improved Way Point created by Zaneris
   
-# ScreeFader
+# ScreenFader
   
   - sceen fader 
   - using UI panel, changes panel 
