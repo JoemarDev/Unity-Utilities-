@@ -15,3 +15,5 @@ Re- usable scripts
   
   - sceen fader 
   - using UI panel, changes panel 
+  
+  * <b>Solution Class:</b> [Fade In Panel](FadeIn.cs)
