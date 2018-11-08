@@ -10,3 +10,8 @@ Re- usable scripts
 - Set automated path movement using transforms, to predefine the path.
 - NOTE:  waypoint circut  & improved way point rely on each other // 
   Disclaimer: Improved Way Point created by Zaneris
+  
+  ## ScreeFader
+  
+  - sceen fader 
+  - using UI panel, changes panel 
