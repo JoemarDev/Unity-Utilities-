@@ -2,6 +2,7 @@
 Re- usable scripts
 
 # Timer 
+- UI Input 
 - Serialized fields to adjust timer speed
 - Takes input value using Unity UI Input field element. 10+ Digits plus (long) 
 
