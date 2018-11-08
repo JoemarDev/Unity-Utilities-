@@ -2,7 +2,8 @@
 Re- usable scripts
 
 # Timer 
-- Serialized fields to adjust timer speed, takes input value using Unity UI Input field element. 10 Digits plus (long) 
+- Serialized fields to adjust timer speed
+- Takes input value using Unity UI Input field element. 10+ Digits plus (long) 
 
 
 ## WayPoint 
