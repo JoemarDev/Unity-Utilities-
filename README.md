@@ -1,7 +1,7 @@
 # Unity-Utilities-
 Re- usable scripts
 
-# Timer 
+## Timer 
 - UI Input 
 - Serialized fields to adjust timer speed
 - Takes input value using Unity UI Input field element. 10+ Digits plus (long) 
@@ -17,13 +17,13 @@ Re- usable scripts
 * [Way Point](WaypointCircuit.cs)
 
   
-# ScreenFader
+## ScreenFader
   
   - sceen fader 
   - using UI panel, changes panel 
   *  [Fade In Panel](FadeIn.cs)
   
-  # Scene Transitions
+  ## Scene Transitions
   
   - Load between scenes, infinite loop  
   - Apply on a empty game object (Not Destroyed) 
