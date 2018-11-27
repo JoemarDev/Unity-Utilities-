@@ -26,5 +26,5 @@ Re- usable scripts
   # Scene Transitions
   
   - Load between scenes, infinite loop  
-  - Apply on a empty game object 
+  - Apply on a empty game object (Not Destroyed) 
   *  [Scene Picker](ScenePicker.cs)
