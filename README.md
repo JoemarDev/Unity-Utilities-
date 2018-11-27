@@ -22,3 +22,9 @@ Re- usable scripts
   - sceen fader 
   - using UI panel, changes panel 
   *  [Fade In Panel](FadeIn.cs)
+  
+  # Scene Transitions
+  
+  - Load between scenes, infinite loop  
+  - Apply on a empty game object 
+  *  [Scene Picker](ScenePicker.cs)
