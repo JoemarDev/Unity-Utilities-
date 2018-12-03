@@ -28,3 +28,10 @@ Re- usable scripts
   - Load between scenes, infinite loop  
   - Apply on a empty game object (Not Destroyed) 
   *  [Scene Picker](ScenePicker.cs)
+  
+   ## Camera Switching
+  
+  - Switch between cameras 
+ 
+  
+  *  [Camera Switcher](CameraSwitch.cs)
