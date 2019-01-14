@@ -5,6 +5,8 @@ Re- usable scripts
 - Restricts Players Movement 
 - Takes into consideration different screen sizes using ViewportToWorldPoint
 
+*  [Clamped Movement](ClampedMovement.cs)
+
 
 ## Timer 
 - UI Input 
