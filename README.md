@@ -1,6 +1,11 @@
 # Unity-Utilities-
 Re- usable scripts
 
+## Clamped Movement using Screen Size 
+- Restricts Players Movement 
+- Takes into consideration different screen sizes using ViewportToWorldPoint
+
+
 ## Timer 
 - UI Input 
 - Serialized fields to adjust timer speed
