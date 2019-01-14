@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
-public class Player : MonoBehaviour {
+public class ClampedMovement : MonoBehaviour {
 
     Rigidbody2D playerQ;
     [SerializeField]float speed;
