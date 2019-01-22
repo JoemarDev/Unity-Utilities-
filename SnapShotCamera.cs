@@ -6,7 +6,8 @@ using UnityEngine;
 [RequireComponent(typeof(Camera))]
 public class SnapShotCamera : MonoBehaviour
 {
-    // snapShotCamera can be call from another script. e.g. player
+    // CallTakeSnapShot() can be call from another script. e.g. player
+    //script below executes picture capture as Texture2D
     Camera snapCam;
    
     int resWidth = 256;
