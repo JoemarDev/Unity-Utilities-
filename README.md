@@ -7,6 +7,12 @@ Re- usable scripts
 
 *  [Clamped Movement](ClampedMovement.cs)
 
+## Snapshoot Cameara 
+- Take images/ photos in unity to save them on file 
+- save image as texture2D
+
+*  [Snap Shot Camera](SnapShotCamera.cs)
+
 
 ## Timer 
 - UI Input 
@@ -14,7 +20,7 @@ Re- usable scripts
 - Takes input value using Unity UI Input field element. 10+ Digits plus (long) 
 
 
-## WayPoint 
+## Improved WayPoint 
 
 - Set automated path movement using transforms, to predefine the path.
 - NOTE:  waypoint circut  & improved way point rely on each other //  
