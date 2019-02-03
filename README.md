@@ -7,11 +7,16 @@ Re- usable scripts
 
 *  [Clamped Movement](ClampedMovement.cs)
 
+## Left and Right Mobile Touch Input
+-  Simple mobile touch input
+- For left and right movement
+- Based on screen size
+[Touch Input](TouchInput.cs)
+
 ## Snapshoot Cameara 
 - Take images/ photos in unity to save them on file 
 - save image as texture2D
-
-*  [Snap Shot Camera](SnapShotCamera.cs)
+* [SnapShoot Camera] (SnapShotCamera.cs)
 
 
 ## Timer 
