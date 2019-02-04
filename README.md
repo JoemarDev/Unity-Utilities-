@@ -34,12 +34,20 @@ Re- usable scripts
 *  [Better Way Point Follower](BetterWaypointFollower.cs)
 * [Way Point](WaypointCircuit.cs)
 
-  
-## ScreenFader
+## Object Fader
+
+- Make an object fade 
+- Lerp smoothly between fades
+ - NOTE: change default Material from Opaque to Fade
+ * [Object Fade](SingleObjectFader.cs)
+
+
+## Screen Fader
   
   - sceen fader 
   - using UI panel, changes panel 
   *  [Fade In Panel](FadeIn.cs)
+ 
   
   ## Scene Transitions
   
