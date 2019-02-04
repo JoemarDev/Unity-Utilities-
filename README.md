@@ -13,7 +13,7 @@ Re- usable scripts
 - Based on screen size
 [Touch Input](TouchInput.cs)
 
-## Snapshoot Cameara 
+## Snapshoot Camera 
 - Take images/ photos in unity to save them on file 
 - save image as texture2D
 * [SnapShoot Camera] (SnapShotCamera.cs)
