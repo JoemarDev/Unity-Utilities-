@@ -19,12 +19,6 @@ Re- usable scripts
 * [SnapShoot Camera] (SnapShotCamera.cs)
 
 
-## Timer 
-- UI Input 
-- Serialized fields to adjust timer speed
-- Takes input value using Unity UI Input field element. 10+ Digits plus (long) 
-
-
 ## Improved WayPoint 
 
 - Set automated path movement using transforms, to predefine the path.
@@ -55,9 +49,11 @@ Re- usable scripts
   - Apply on a empty game object (Not Destroyed) 
   *  [Scene Picker](ScenePicker.cs)
   
-   ## Camera Switching
-  
+   ## Camera Switching 
   - Switch between cameras 
- 
-  
   *  [Camera Switcher](CameraSwitch.cs)
+  
+  ## Timer 
+- UI Input 
+- Serialized fields to adjust timer speed
+- Takes input value using Unity UI Input field element. 10+ Digits plus (long) 
