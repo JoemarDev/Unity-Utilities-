@@ -1,6 +1,12 @@
 # Unity-Utilities-
 Re- usable scripts
 
+## Vuforia - Audio Player
+- Audio to be played on targeted image
+- Script to be applied on gameObject with - Image Target Behaviour (Script)
+- Requires Audio Source component 
+*  [Vuforia Audio Player](ImageTargetPlayAudio.cs)
+
 ## Clamped Movement using Screen Size 
 - Restricts Players Movement 
 - Takes into consideration different screen sizes using ViewportToWorldPoint
