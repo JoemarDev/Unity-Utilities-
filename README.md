@@ -6,7 +6,7 @@ Re- usable scripts
 - Distant between Gameobject(Audio source) and Player 
 - Increase (or decrease) in the frequency of sound 
 
- [Doppler Effect](DistantAudio.cs)
+ *  [Doppler Effect](DistantAudio.cs)
 
 ## Vuforia - Audio Player
 - Audio to be played on targeted image
