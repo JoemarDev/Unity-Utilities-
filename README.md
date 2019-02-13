@@ -1,6 +1,13 @@
 # Unity-Utilities-
 Re- usable scripts
 
+##Doppler Effect
+
+- Distant between Gameobject(Audio source) and Player 
+- Increase (or decrease) in the frequency of sound 
+
+ [Doppler Effect](DistantAudio.cs)
+
 ## Vuforia - Audio Player
 - Audio to be played on targeted image
 - Script to be applied on gameObject with - Image Target Behaviour (Script)
@@ -48,7 +55,7 @@ Re- usable scripts
   - using UI panel, changes panel 
   *  [Fade In Panel](FadeIn.cs)
  
-  
+ 
   ## Scene Transitions
   
   - Load between scenes, infinite loop  
