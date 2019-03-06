@@ -29,7 +29,7 @@ Re- usable scripts
 ## Snapshoot Camera 
 - Take images/ photos in unity to save them on file 
 - save image as texture2D
-* [SnapShoot Camera] (SnapShotCamera.cs)
+* [SnapShoot Camera](SnapShotCamera.cs)
 
 
 ## Improved WayPoint 
