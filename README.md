@@ -59,6 +59,14 @@ Re- usable scripts
   - sceen fader 
   - using UI panel, changes panel 
   *  [Fade In Panel](FadeIn.cs)
+  
+## Mic Input
+  
+  - mic input reacts to UI 
+  - using UI panel, changes panel 
+  *  [Mic Input](MicInput.cs)
+  *  [Slider](DummyRecorder.cs)
+  
  
  
   ## Scene Transitions
