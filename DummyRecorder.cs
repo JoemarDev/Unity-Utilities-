@@ -11,7 +11,7 @@ public class DummyRecorder : MonoBehaviour
     private void Update()
     {
         indicatorPeak.value = MicInput.MicLoudnessPeak ;
-        indicatorRMS.value = MicInput.MicLoudnessRMS * MicSensivitiy;
+        indicatorRMS.value = MicInput.MicLoudnessRMS;
     }
 
 }
