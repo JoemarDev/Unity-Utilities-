@@ -5,24 +5,34 @@ using UnityEngine;
 public class RaycastVR : MonoBehaviour
 {
 
-    public Camera vrHeadSet;
-    [SerializeField] float distanceOfRay = 3f;
-    Ray ray;
-    RaycastHit hitObject;
-   
+    private Camera _camera;
+    public float rayRange = 4;
   
+    void Start()
+    {
+        _camera = GetComponent<Camera>();
+    }
+
+    // Update is called once per frame
     void Update()
     {
-        ray = new Ray(transform.position, vrHeadSet.transform.forward);
-        Debug.DrawRay(  transform.localPosition, vrHeadSet.transform.forward ,Color.red);
+        Vector3 point = new Vector3(_camera.pixelWidth / 2, _camera.pixelHeight / 2, 0);
+        Ray ray = _camera.ScreenPointToRay(point);
+        RaycastHit hit;
 
-        if (Physics.Raycast(ray, out hitObject, 3f))
+        if (Physics.Raycast(ray, out hit, rayRange))
         {
-            //tag objects in inspector
-            if (hitObject.collider.tag == "house")
-            {
-                Debug.Log("hi");
-            }
+         
+            GameObject hitObject = hit.transform.gameObject;
+            //implement the below when using interfaces
+            //if (hitObject.transform.GetComponent<IInteractable>() == null)
+            //{
+            // 
+            //    return;
+            //}
+            //hitObject.GetComponent<IInteractable>().Interact();
+            
         }
+
     }
 }
